@@ -1,0 +1,25 @@
+
+# Django related
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual environment
+myenv/
+venv/
+env/
+
+# React related
+node_modules/
+build/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# OS related
+.DS_Store
+Thumbs.db
